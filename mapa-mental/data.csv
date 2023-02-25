@@ -1,0 +1,27 @@
+id,importancia,text,linkto,textolink,linkto2,textolink2
+ALE/MA,5,,dep. Estaduais,A Alema é composta de dep. estaduais,"CEMA-art.6.",Competencia atribuida pela CEMA e C.F.
+"CEMA-art.6.",3,"São Poderes do Estado, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário.",Legislativo
+Legislativo,4,,ALE/MA,Legislativo Exercido pela Alema
+dep. Federais,3,COMPOSIÇÃO DA ALE/MA 18 DEPUTADOS FEDERAIS 
+dep. Estaduais,3,42 (Estaduais),dep. Federais,Se são mais do que 12  somam-se 24 18 + 24 DEPUTADOS = 42 (Estaduais)
+eleição,3,Na forma da legislação federal,dep. Federais,Sistema eleitoral Proporcional / QUOCIENTE ELEITORAL DISTRIBUIÇÃO DAS VAGAS
+legislação federal,4,,dep. Estaduais,dep. estaduais eleitos na forma da legislação federal 
+assembleias legislativas,4,,dep. Federais,"Art. 27. O número de Deputados à Assembleia Legislativa corresponderá ao triplo da representação do Estado na Câmara dos Deputados e atingido o número de trinta e seis será acrescido de tantos quantos forem os Deputados Federais acima de doze."
+sessão Legislativa,3,Cada ano da legislatura é uma sessão legislativa / só pode interromper quando tiver sido aprovada a LDO (lei de diretrizes orçamentárias),calendário
+sede,3,Art. 2º A Assembleia Legislativa tem sua sede na Capital do Estado e funciona no Palácio “MANUEL BECKMAN   /  reunião fora da sede - havendo conveniencia e deliberação da maioria absoluta poderá a Assembleia Legislativa reunir-se temporariamente em qualquer cidade do Estado”.,ALE/MA
+calendário,4,baseado em legislatura (periodo de 4 anos),ALE/MA
+sessão preparatória,4,são sessões que vão preparar a Casa para o desempenho de seus trabalhos (de duas formas),dep. Estaduais,(1° ano de legislatura) dando posse aos Deputados Estaduais,mesas diretoras,(1° e 3° ano de legislatura) elegendo e empossando as mesas diretoras que se dividirão em duas: uma para o primeiro biênio e uma para o segundo.
+mesas diretoras,3,órgão diretor colegiado que possui a importante missão de conduzir os trabalhos legislativos bem como dirigir os serviços administrativos da Câmara (toda a Assembleia legislativa). / duas mesas diretoras (duas eleições),dep. Estaduais,Proporcionalidade da representação partidaria,eleição, 1° Bienio (Quórum - 1° turno maioria absoluta / 2° turno maioria simples) 2° Bienio (mesmas regras / data n fixada)
+posse,2,,dep. Estaduais,documentos (Diploma / Nome parlamentar / Legenda Partidária / Declaração de Bens) posse extemporânea (Posse Extemporânea – Motivos: • Motivo de Força Maior • Enfermidade Comprovada • Perante à Mesa • Na Presidência nos Recessos),mesas diretoras,Posse imediata
+suplente,2,,posse,Suplente é convocado quando há vaga / deve prestar o compromisso ao ser convocado. (COMPROMISSO SOMENTE UMA VEZ),mesas diretoras,Mesmo partido do titular
+composição,2,,mesas diretoras,Presidencia (Presidente e 4 vice-Presidentes) / Secretaria (4 Secretarios)
+limitações,2,,mesas diretoras,não pode exercer liderança partidaria ou de bloco e comissão
+Atribuições,5,,dep. Estaduais,AEPROPI,mesas diretoras,Dirigindo promulgando e valorizando a Mesa Diretora protege o Legislativo propondo projetos aprovando orçamento e decidindo em grau de recurso enquanto provê cargos e defende Deputados ameaçados
+Imunidades,3,,dep. Estaduais,FORO Presos por flagar uma Testemunha no Sítio
+TJMA,3,,dep. Estaduais,Processados e julgados Criminalmente no TJMA
+Prisão,2,,dep. Estaduais,Flagrante de crime inafiançavel
+Vedações,3,,dep. Estaduais,Contratar Cargo e advogar na Adm. Publica de Pessoa Juridica  
+Licenças,3,,dep. Estaduais,Interesse particular - 120 dias / saúde
+Perda de Mandato,3,,dep. Estaduais, Expressa (Independente de aprovação - Diario da Alema - Carater Efetivo) Tácita (Impositiva) / Declarado pela mesa (Perde a Mesa na sessão da Terça ou direito político) ou Plenário (Perde o plenário quando o decoro usar um 38 sendo uma condenação criminal)
+CCJ,3,,Perda de Mandato,nos casos dos incisos I e VI / - Violação das Proibições - Condenação Criminal Transitada em Julgado,dep. Estaduais,("Representação ao Deputado: Defesa em 5 sessões Defensor dativo se não Diligências e instrução probatória Parecer em 5 sessões Projeto de resolução se procedente Parecer na Ordem do Dia.”)
+Presidente,3,O presidente do legislativo é o presidente da ALEMA / Representante da assembleia / Representante da Câmara Legislativa / Regulador dos seus trabalhos Fiscal da sua ordem,Atribuições,"Pra manter a ordem o Presidente preside e concede a palavra aos deputados; convida oradores a declarar posição retira quem perturba decide questões de ordem e anuncia a Ordem do Dia; submete a votação anuncia resultados e desempata votações convocando sessões e sempre contando como presente.”
