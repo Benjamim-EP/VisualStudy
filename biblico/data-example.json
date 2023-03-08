@@ -1,6 +1,6 @@
 {
 	"tree" : {
-		"nodeName" : "NODE NAME 1",
+		"nodeName" : "Jó",
 		"name" : "NODE NAME 1",
 		"type" : "type3",
 		"code" : "N1",
@@ -21,6 +21,7 @@
 				"link" : {
 						"name" : "Link node 1 to 2.1",
 						"nodeName" : "NODE NAME 2.1",
+						"texto": "texto",
 						"direction" : "SYNC"
 					},
 				"children" : [{

@@ -223,6 +223,7 @@ function treeBoxes(urlService, jsonData)
 			$('#nodeInfoID' + d.id).css('visibility', 'visible');
 			$('#nodeInfoTextID' + d.id).css('visibility', 'visible');
             $('#textoPrincipal').css('visibility', 'visible');
+			$('#textoPrincipal').html('<b>Code: </b>' + d.code + '<br>');
 
 		})
 		.on('mouseout', function(d) {
